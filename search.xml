@@ -46,6 +46,7 @@
 <p>输入hexo cl、hexo g、hexo s访问本地博客，在确认无误后输入hexo d上传博客。</p>
 <p>在上传完后访问储存库就可以看见代码文件了，在上传成功后点击储存库的Seting点击Pages，如果按照我的操作，在等待一会后刷新页面如果出现Your site is live at…，那么恭喜你，你的博客已经完成，这时只需要点击链接就可以访问你的博客啦！<br>再看到这里把我的网站转发一下友链里加一下我不过分吧。</p>
 <h2 id="七、更新博客"><a href="#七、更新博客" class="headerlink" title="七、更新博客"></a>七、更新博客</h2><p>在修改文件后，先用<code>hexo cl（清除静态文件）hexo g (构建静态文件) hexo s(启用服务站点)</code>在本地看看修改的是否满意再用<code>hexo d</code>部署到github等待更新完成，博客就会发生变化，如果没有发生变化刷新一下就可以了。</p>
+<p><strong>网盘链接</strong><br>百度网盘： 链接：<a href="https://pan.baidu.com/s/1GlwTVn9ujTd8FyujXM64eg">https://pan.baidu.com/s/1GlwTVn9ujTd8FyujXM64eg</a> 提取码：Hexo</p>
 <h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>搭建一个博客、网站绝不是一个简单的事情，但一定是一个很酷的事情，即使你会遇到数不清的bug但只要你坚持下去打败困难，前方的道路将会畅通无阻，如果有讲不清或者没提到的bug随时在下方评论区提问我会尽量帮助你的。<br>拜拜，我们明天再见！👋</p>
 ]]></content>
       <categories>
