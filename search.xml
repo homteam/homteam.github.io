@@ -105,4 +105,44 @@
         <tag>hexo</tag>
       </tags>
   </entry>
+  <entry>
+    <title>从0到1创建个人博客</title>
+    <url>/2024/06/09/%E5%A6%82%E4%BD%95%E7%94%A8hexo%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<p><strong>Hexo 创建个人博客</strong><br>    &gt;Hexo 是一个基于 Node.js 的博客框架，支持 Markdown、一键部署和插件扩展。Hexo 提供了 405 个美观、强大、可定制的主题让你轻松创建自己的博客。<br>简单来说，就算你是零基础的小白，也可以轻松、快捷、高效的创建一个属于自己的博客。</p>
+<p>你可以在上面谢谢心得、记记笔记、记录生活或者分享图片，最重要的一点是你还可以向其他人装。</p>
+<p>本章将会带你零基础创建博客，不用代码轻松创建一个与众不同的博客。</p>
+<h2 id="一、准备环境"><a href="#一、准备环境" class="headerlink" title="一、准备环境"></a>一、准备环境</h2><h3 id="1、安装Node-js"><a href="#1、安装Node-js" class="headerlink" title="1、安装Node.js"></a>1、安装Node.js</h3><p>直接进入Node.js<a href="https://nodejs.org/en">官网</a>，点击下载长期维护版本（版本不低于 10.13）。<br>    &gt; + 安装时无脑下一步即可（尽量安装在非C盘中）<br>    &gt; + Node会自带npm<br>安装好后打开cmd窗口输入<code>node -v</code>如果出现版本号（如 20.14.0）就代表安装成功。</p>
+<h3 id="2、安装Git"><a href="#2、安装Git" class="headerlink" title="2、安装Git"></a>2、安装Git</h3><p>同样进入<a href="https://git-scm.com/download">官网</a><br>    &gt; + Win直接下载<a href="https://nodejs.org/en/win">Git</a>,安装时无脑下一步（尽量安装在非C盘中）<br>    &gt; + Mac使用 <a href="https://www.macports.org/"> MacPorts</a>然后输入 <code>$ sudo port install git</code><br>    &gt; + Linux (Ubuntu, Debian)：<code>sudo apt-get install git-core</code><br>    &gt; + Linux (Fedora, Red Hat, CentOS)：<code>sudo yum install git-core</code><br>安装好后右键桌面出现一下两个选项即可：<br><img src="/img/git.jpg" alt="Git安装成功"><br>若下载较慢文章最后我会把资源都放在网盘里供大家下载。</p>
+<h2 id="二、安装Hexo"><a href="#二、安装Hexo" class="headerlink" title="二、安装Hexo"></a>二、安装Hexo</h2><p>现在自己电脑里创建一个用于储存博客的文件夹（例如hexo），双击进入文件夹后右键，点击Open GBH(Git Bash Here),这里会出先一个Git窗口，上面黄色字体就是文件路径。<br>在窗口里依次输入：(在Git窗口中复制是<kbd>Ctrl</kbd>+<kbd>Ins</kbd>，粘贴是<kbd>Shift</kbd>+<kbd>Ins</kbd>，而<kbd>Ctrl</kbd>+<kbd>C</kbd>是停止)<br>    <code>npm install hexo-cli -g</code><br>    <code>hexo init blog</code><br>如果没有报错信息（全是INFO）就说明安装成功，此时文件夹里会出现 blog 文件夹。<br>接着输入<code>cd blog</code>将路径转入 blog<br>做后运行<code>npm install</code>、<code>hexo s</code></p>
+<p>此时用浏览器访问<a href="http://localhost:4000/%E5%A6%82%E6%9E%9C%E7%9C%8B%E5%88%B0%E8%BF%99%E4%B8%AA%E7%95%8C%E9%9D%A2%EF%BC%8C%E9%82%A3%E4%B9%88%E4%BD%A0%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%B7%B2%E7%BB%8F%E5%8F%AF%E4%BB%A5%E5%9C%A8%E6%9C%AC%E5%9C%B0%E8%AE%BF%E9%97%AE%E4%BA%86%E3%80%82">http://localhost:4000/如果看到这个界面，那么你的博客已经可以在本地访问了。</a><br><img src="/img/%E5%BB%BA%E7%AB%99%E6%88%90%E5%8A%9F.png" alt="本地访问示例"><br>不过目前只能在同一网络下的用户可以访问还无法让所有人看到。</p>
+<h2 id="三、更改博客样式"><a href="#三、更改博客样式" class="headerlink" title="三、更改博客样式"></a>三、更改博客样式</h2><p>如果你觉得默认博客样式<del>太丑</del>太单调，想换成属于自己喜欢的风格，我们也可以更换博客的主题。<br>首先进入<a href="https://hexo.io/themes/">hexo</a>主题官网这里有超多主题，你只需要点击名称下面的“Visit preview site”即可预览此模板网站，如果你1️⃣🚀🕧🎻，看上了这个模版就退回到hexo点击它的名称即可跳转到github的主页，往下滑就是配置教程了。<br>当然如果你English不太好，上面一般会有中文教程链接，然后按教程安装和配置即可。这里我用的是<a href="https://docs.anheyu.com/">安知鱼</a>主题。</p>
+<h2 id="四、编写个人博客"><a href="#四、编写个人博客" class="headerlink" title="四、编写个人博客"></a>四、编写个人博客</h2><p>在博客根目录（blog）右键点击Open GBH，在git窗口中填写<code>hexo new &quot;文章标题&quot;</code>，然后在 cource -&gt; _posts 文件夹中就可以看见新创建的文章了。<br>这里文章是用MD语法进行编辑的（Markdown 轻量级标记语言），可以用Mou、MarkdownEditor、Haroopad、VS等进行编写而我用的是VS。具体编写格式可以参考<a href="https://www.runoob.com/markdown/md-tutorial.html">菜鸟教程</a>学习，当然MD也可以用Mou、MarkdownEditor、Haroopad进行记笔记。<br>编写好后保存用 hexo g、hexo s 就可以看到文章了。</p>
+<h2 id="五、创建github储存库"><a href="#五、创建github储存库" class="headerlink" title="五、创建github储存库"></a>五、创建github储存库</h2><p>github是国外著名的代码托管平台，至于为什么不用gitee呢？是因为gitee暂时关闭了Gitee Pages 服务，而github就可以创建一个网站。</p>
+<h3 id="1、注册github账户"><a href="#1、注册github账户" class="headerlink" title="1、注册github账户"></a>1、注册github账户</h3><p>首先访问<a href="https://github.com/">github官网</a>点击sign up注册填写你的邮箱、姓名等等，这里有注意你填写的姓名将是你网站域名的前缀名: 名字.github.io 。</p>
+<h3 id="2、创建储存库"><a href="#2、创建储存库" class="headerlink" title="2、创建储存库"></a>2、创建储存库</h3><p>登录好后点击右上角你的头像，点击 your repositories（你的储存库），点击new创建新储存库。<br>在输入新储存库名字时这里要写成 你的名字.github.io ，把模式改为Public（公开） ，剩下的不用选点击Create repositories 创建新储存库，这时回到原来页面刷新一下就可以看到你的储存库了。</p>
+<h2 id="六、将播客上传到github"><a href="#六、将播客上传到github" class="headerlink" title="六、将播客上传到github"></a>六、将播客上传到github</h2><h3 id="1、链接github"><a href="#1、链接github" class="headerlink" title="1、链接github"></a>1、链接github</h3><p>在博客根目录打开Git窗口，输入</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git config –global user.name “你的用户名”</span><br><span class="line">git config –global user.email “你的邮箱”</span><br></pre></td></tr></table></figure>
+
+<p>然后再输入<code>ssh-keygen -t rsa -C &quot;邮箱地址&quot;</code>，摁三次（多次）回车，（若出现“（y&#x2F;n）”?时输入y再回车）<br>然后再输入<code>cat ~/.ssh/id_rsa.pub</code>获取密钥(切勿透露，若泄露请尽快重置)</p>
+<p>回到github点击右上角头像点击设置，点击右侧ssh… 点击 New ssh key,随意输入公钥名称，下方填写刚刚生成的密钥，点击Add ssh key，这里会要我们输入密码确认，之后你的公钥就添加成功了。</p>
+<p>测试ssh公钥是否绑定成功：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure>
+<p>如果问你（yes or no）直接选 yes，如果出现 successfully 就代表绑定成功</p>
+<h3 id="2、绑定并上传github"><a href="#2、绑定并上传github" class="headerlink" title="2、绑定并上传github"></a>2、绑定并上传github</h3><p>来到博客根目录打开 config配置文件划到最底部，把 type 后的引号里填上<code>git</code>,然后在你的github仓库中找到配置地址，点击ssh复制并粘贴到repositories后（注意一定要加空格）,并添加branch后面填上main</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  type: &#x27;git&#x27;</span><br><span class="line">  repository: ssh地址</span><br><span class="line">  branch: main</span><br></pre></td></tr></table></figure>
+<p><img src="/img/ssh.png" alt="ssh地址"></p>
+<p>然后安装hexo-deployer-git 自动部署发布工具</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure>
+<p>输入hexo cl、hexo g、hexo s访问本地博客，在确认无误后输入hexo d上传博客。</p>
+<p>在上传完后访问储存库就可以看见代码文件了，在上传成功后点击储存库的Seting点击Pages，如果按照我的操作，在等待一会后刷新页面如果出现Your site is live at…，那么恭喜你，你的博客已经完成，这时只需要点击链接就可以访问你的博客啦！<br>再看到这里把我的网站转发一下友链里加一下我不过分吧。</p>
+<h2 id="七、更新博客"><a href="#七、更新博客" class="headerlink" title="七、更新博客"></a>七、更新博客</h2><p>在修改文件后，先用<code>hexo cl（清除静态文件）hexo g (构建静态文件) hexo s(启用服务站点)</code>在本地看看修改的是否满意再用<code>hexo d</code>部署到github等待更新完成，博客就会发生变化，如果没有发生变化刷新一下就可以了。</p>
+<h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>搭建一个博客、网站绝不是一个简单的事情，但一定是一个很酷的事情，即使你会遇到数不清的bug但只要你坚持下去打败困难，前方的道路将会畅通无阻，如果有讲不清或者没提到的bug随时在下方评论区提问我会尽量帮助你的。<br>拜拜，我们明天再见！👋</p>
+]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>科技</tag>
+      </tags>
+  </entry>
 </search>
