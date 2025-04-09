@@ -1,6 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>DIY蓝牙音响</title>
+    <url>/2025/02/16/DIY%E8%93%9D%E7%89%99%E9%9F%B3%E5%93%8D/</url>
+    <content><![CDATA[<h1 id="🎵-DIY音响制作指南：从零打造你的专属音响"><a href="#🎵-DIY音响制作指南：从零打造你的专属音响" class="headerlink" title="🎵 DIY音响制作指南：从零打造你的专属音响"></a>🎵 DIY音响制作指南：从零打造你的专属音响</h1><h2 id="📌-前言"><a href="#📌-前言" class="headerlink" title="📌 前言"></a>📌 前言</h2><p>最近在b站上看到一篇DIY音响的视频，尝试制作，于是就有了这篇指南。我将带你一步步完成高性价比的DIY音响项目，非常适合新手练习！<br>成品可在“成品展示”观看</p>
+<hr>
+<h2 id="🛠️-材料清单"><a href="#🛠️-材料清单" class="headerlink" title="🛠️ 材料清单"></a>🛠️ 材料清单</h2><table>
+<thead>
+<tr>
+<th>组件</th>
+<th>推荐型号</th>
+<th>预算参考</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>扬声器</td>
+<td>40mm 4欧5瓦全频喇叭*2</td>
+<td>¥10-25</td>
+</tr>
+<tr>
+<td>蓝牙功放板</td>
+<td>CT14立体声蓝牙功放板*1</td>
+<td>¥7-12</td>
+</tr>
+<tr>
+<td>充电模块</td>
+<td>TP4056 3.7v充电功放板（不带保护） *1</td>
+<td>¥2-3</td>
+</tr>
+<tr>
+<td>电池</td>
+<td>3.7v18650锂电池*1</td>
+<td>¥7-15</td>
+</tr>
+<tr>
+<td>按钮</td>
+<td>12mm 12-24v自锁电源按钮*1</td>
+<td>¥2-3</td>
+</tr>
+<tr>
+<td>LED</td>
+<td>3mmLED灯*1</td>
+<td>¥0.2-0.5</td>
+</tr>
+<tr>
+<td>双色LED</td>
+<td>F3共阴LED*1</td>
+<td>¥0.5-1.5</td>
+</tr>
+<tr>
+<td>振膜</td>
+<td>3658-跑道型低音振膜*1</td>
+<td>¥5-7</td>
+</tr>
+<tr>
+<td>外壳</td>
+<td>100<em>68</em>50mm防水塑料盒*1</td>
+<td>¥3-10</td>
+</tr>
+</tbody></table>
+<hr>
+<h2 id="🔧-制作步骤"><a href="#🔧-制作步骤" class="headerlink" title="🔧 制作步骤"></a>🔧 制作步骤</h2><h3 id="1️⃣-箱体制作"><a href="#1️⃣-箱体制作" class="headerlink" title="1️⃣ 箱体制作"></a>1️⃣ 箱体制作</h3><p><strong>1、测量定位：</strong><br>使用工具在音响外壳正面标出两个喇叭孔的安装位置，并在背面画出低音振膜安装位置。<br><strong>2、开孔加工：</strong><br>按照标记切割出两个喇叭安装孔和跑道型孔位。在壳体顶部和侧面钻制3mm直径的LED指示灯安装孔，以及Type-C接口安装槽<br><strong>3、质量检查：</strong>完成所有开孔后，仔细检查各孔位的尺寸精度和边缘，确保可以装配。<br>现在，音响主体外壳的结构加工即告完。</p>
+<p>具体可以参照我的设计图：<br><img src="/img/CAD1.png" alt="CAD"></p>
+<h3 id="2️⃣-电路设计"><a href="#2️⃣-电路设计" class="headerlink" title="2️⃣ 电路设计"></a>2️⃣ 电路设计</h3><p><img src="/img/dlt.png" alt="分频器电路图"><br>以此图焊接<br>（注⚠️：电池尽量不直接焊接）</p>
+<h3 id="3️⃣-组装测试"><a href="#3️⃣-组装测试" class="headerlink" title="3️⃣ 组装测试"></a>3️⃣ 组装测试</h3><p><strong>1. 组装低音振膜：</strong><br>先用502胶水在周围第一圈后再用热熔胶等密封（否则会影响振动效果）<br><strong>2. 组装喇叭：</strong><br>可以用热熔胶、树脂等密封<br><strong>3. 安装其他电子原件</strong>注：由于预备空间较小，请适当安排空间！</p>
+<p>最后，检查<strong>密封性</strong>，电子原件，就可以拧上螺丝完成啦！🎉</p>
+<hr>
+<h2 id="💡-进阶技巧"><a href="#💡-进阶技巧" class="headerlink" title="💡 进阶技巧"></a>💡 进阶技巧</h2><ul>
+<li>🔥 箱体强化：内部添加加强筋（推荐X型结构）</li>
+<li>🎛️ 功放升级：改用Class AB功放（如LM3886）</li>
+<li>📊 测量工具：Dayton Audio UMM-6测量麦克风</li>
+</ul>
+<hr>
+<h2 id="⚠️-安全须知"><a href="#⚠️-安全须知" class="headerlink" title="⚠️ 安全须知"></a>⚠️ 安全须知</h2><ol>
+<li>使用电烙铁时注意安全避免直接触碰</li>
+<li>功放接线前确保断电</li>
+<li>测试时避免大音量长时间运行</li>
+</ol>
+<hr>
+<h2 id="❓常见问题"><a href="#❓常见问题" class="headerlink" title="❓常见问题"></a>❓常见问题</h2><ul>
+<li><strong>Q</strong>振膜不震动&#x2F;振动不明显？<br><strong>A</strong>检查密封性，也有可能是腔体过大导致</li>
+<li><strong>Q</strong>播放有杂音&#x2F;音质不好？<br><strong>A</strong>可能是喇叭或功放板的原因，也有可能是焊接不完全</li>
+<li><strong>Q</strong>充电时发热<br><strong>A</strong>本型号充电板发热是正常现象，如果发热过于严重可以找客服退换</li>
+</ul>
+<h2 id="🌟-成品展示"><a href="#🌟-成品展示" class="headerlink" title="🌟 成品展示"></a>🌟 成品展示</h2><p><img src="/img/DIY1.jpg" alt="我的DIY作品"><br><img src="/img/DIY2.jpg" alt="我的DIY作品"></p>
+<ul>
+<li>尺寸：100 * 68 * 50mm</li>
+<li>总成本：约¥40</li>
+</ul>
+<hr>
+<h2 id="📚-推荐资源"><a href="#📚-推荐资源" class="headerlink" title="📚 推荐资源"></a>📚 推荐资源</h2><ul>
+<li><a href="https://www.bilibili.com/video/BV1NN411P7qY/">B站原视频</a></li>
+<li>DIYAudio论坛（全球最大DIY音响社区）</li>
+<li>PartsExpress（优质元件供应商）</li>
+</ul>
+<p>💬 欢迎在评论区分享你的DIY经验或提问！</p>
+]]></content>
+      <categories>
+        <category>DIY</category>
+      </categories>
+      <tags>
+        <tag>科技</tag>
+        <tag>DIY</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>100访问量</title>
     <url>/2024/04/23/bug%E7%9A%84%E4%BF%AE%E6%94%B9/</url>
     <content><![CDATA[<h1 id="更新"><a href="#更新" class="headerlink" title="更新"></a>更新</h1><p>“Hallo World”在这一句经典句子出现后，我的博客创立成功，如今已经100访问量啦！<br>虽然发的晚了一些但内心的激动也是按捺不住的，借此次100访问量我要提出一些网站的小缺点，并修复它，让我们开始吧！</p>
