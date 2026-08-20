@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>DIY蓝牙音响</title>
-    <url>/project/2025/02/16/DIY%E8%93%9D%E7%89%99%E9%9F%B3%E5%93%8D/</url>
+    <url>/2025/02/16/DIY%E8%93%9D%E7%89%99%E9%9F%B3%E5%93%8D/</url>
     <content><![CDATA[<h1 id="🎵-DIY音响制作指南：从零打造你的专属音响"><a href="#🎵-DIY音响制作指南：从零打造你的专属音响" class="headerlink" title="🎵 DIY音响制作指南：从零打造你的专属音响"></a>🎵 DIY音响制作指南：从零打造你的专属音响</h1><h2 id="📌-前言"><a href="#📌-前言" class="headerlink" title="📌 前言"></a>📌 前言</h2><p>最近在b站上看到一篇DIY音响的视频，尝试制作，于是就有了这篇指南。我将带你一步步完成高性价比的DIY音响项目，非常适合新手练习！<br>成品可在“成品展示”观看</p>
 <hr>
 <h2 id="🛠️-材料清单"><a href="#🛠️-材料清单" class="headerlink" title="🛠️ 材料清单"></a>🛠️ 材料清单</h2><table>
@@ -106,7 +106,7 @@
   </entry>
   <entry>
     <title>100访问量</title>
-    <url>/project/2024/04/23/bug%E7%9A%84%E4%BF%AE%E6%94%B9/</url>
+    <url>/2024/04/23/bug%E7%9A%84%E4%BF%AE%E6%94%B9/</url>
     <content><![CDATA[<h1 id="更新"><a href="#更新" class="headerlink" title="更新"></a>更新</h1><p>“Hallo World”在这一句经典句子出现后，我的博客创立成功，如今已经100访问量啦！<br>虽然发的晚了一些但内心的激动也是按捺不住的，借此次100访问量我要提出一些网站的小缺点，并修复它，让我们开始吧！</p>
 <span id="more"></span>
 
@@ -121,7 +121,7 @@
   </entry>
   <entry>
     <title>gitee+picgo配置私人免费图床</title>
-    <url>/project/2024/06/10/%E4%BB%8E0%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%9B%BE%E5%BA%8A/</url>
+    <url>/2024/06/10/%E4%BB%8E0%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%9B%BE%E5%BA%8A/</url>
     <content><![CDATA[<p>本章将会教你如何利用 gitee+picgo 搭建并使用一个免费图床，我的博客：<a href="https://hpmteam.github.io/">https://hpmteam.github.io</a> 。</p>
 <p><strong>什么是图床</strong><br>“图床”这个词，字面意思就是一个“放图片的床”，这么理解也不是不对，只不过这里的“床”换成了<strong>服务器</strong></p>
 <p>图床其实就是互联网上储存图片的空间，例如：<br>你在某红书上分享了一些照片，难道别人想看到照片就要访问你的相册吗？当然不是，你把这一串照片，单独储存在了软件的服务器上，这样别人就能查看你分享的照片了。</p>
@@ -147,7 +147,7 @@
   </entry>
   <entry>
     <title>从0到1创建个人博客</title>
-    <url>/project/2024/06/09/%E5%A6%82%E4%BD%95%E7%94%A8hexo%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2/</url>
+    <url>/2024/06/09/%E5%A6%82%E4%BD%95%E7%94%A8hexo%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2/</url>
     <content><![CDATA[<p><strong>Hexo 创建个人博客</strong><br>    *Hexo 是一个基于 Node.js 的博客框架，支持 Markdown、一键部署和插件扩展。Hexo 提供了 405 个美观、强大、可定制的主题让你轻松创建自己的博客。<br>简单来说，就算你是零基础的小白，也可以轻松、快捷、高效的创建一个属于自己的博客。</p>
 <p>你可以在上面谢谢心得、记记笔记、记录生活或者分享图片，最重要的一点是你还可以向其他人装。</p>
 <p>本章将会带你零基础创建博客，不用代码轻松创建一个与众不同的博客。</p>
@@ -194,7 +194,7 @@
   </entry>
   <entry>
     <title>🎉我的博客成功接入Valine评论系统！🎉</title>
-    <url>/project/2024/03/31/%E6%8E%A5%E5%85%A5%E4%BA%86valine%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/</url>
+    <url>/2024/03/31/%E6%8E%A5%E5%85%A5%E4%BA%86valine%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/</url>
     <content><![CDATA[<p>大家好！我的博客已经正式接入了<a href="https://valine.flutterflow.cn/">Valine评论系统</a>！这意味着，现在你们可以更加方便地在我的博客文章下方留言交流了！系统！这是我博客发展历程中的一个重要时刻，也是我与大家更加紧密互动的开始。</p>
 <span id="more"></span>
 
@@ -212,7 +212,7 @@
   </entry>
   <entry>
     <title>博客更新日志</title>
-    <url>/project/2024/04/19/%E6%9B%B4%E6%96%B0/</url>
+    <url>/2024/04/19/%E6%9B%B4%E6%96%B0/</url>
     <content><![CDATA[<h2 id="解决的关键问题"><a href="#解决的关键问题" class="headerlink" title="解决的关键问题"></a>解决的关键问题</h2><span id="more"></span>
 
 <h3 id="移动硬盘故障的影响及解决方案"><a href="#移动硬盘故障的影响及解决方案" class="headerlink" title="移动硬盘故障的影响及解决方案"></a>移动硬盘故障的影响及解决方案</h3><p>近日，我的个人博客遇到了一项挑战——由于连接的移动硬盘出现了一些小故障，导致博客暂时无法正常运行。作为一名热爱分享知识的技术爱好者，这次意外让我意识到硬件稳定性对于网站持续运行的重要性。经过紧急排查和处理，现已成功更换了储存位置，并确保数据安全备份，博客已恢复正常访问。</p>
@@ -228,7 +228,7 @@
   </entry>
   <entry>
     <title>第一篇文章</title>
-    <url>/project/2024/03/27/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+    <url>/2024/03/27/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
     <content><![CDATA[<p>你好访问我的网站的朋友，这是我用代码编写出的第一个文章，文章代码的部分意思具体的请访问<a href="https://yushuaigee.gitee.io/2021/01/11/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%85%8D%E8%B4%B9%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2(%E5%9B%9B)%E2%80%94%E2%80%94%E7%BC%96%E5%86%99Markdown%E6%96%87%E7%AB%A0%E5%88%A9%E5%99%A8%20Typora/">这个网站</a></p>
 <h2 id="你好-世界"><a href="#你好-世界" class="headerlink" title="你好 世界"></a>你好 世界</h2><span id="more"></span>
 
@@ -245,7 +245,7 @@
   </entry>
   <entry>
     <title>网站40访问量啦！</title>
-    <url>/project/2024/04/19/%E7%BD%91%E7%AB%99%E8%AE%BF%E9%97%AE%E9%87%8F40%E5%95%A6%EF%BC%81/</url>
+    <url>/2024/04/19/%E7%BD%91%E7%AB%99%E8%AE%BF%E9%97%AE%E9%87%8F40%E5%95%A6%EF%BC%81/</url>
     <content><![CDATA[<h2 id="激动的心情"><a href="#激动的心情" class="headerlink" title="激动的心情"></a>激动的心情</h2><p><img src="/img/%E7%BD%91%E7%AB%99%E8%AE%BF%E9%97%AE%E9%87%8F40.svg" alt="40!!"></p>
 <span id="more"></span>
 
@@ -262,7 +262,7 @@
   </entry>
   <entry>
     <title>静态网页与动态网页</title>
-    <url>/project/2024/04/22/%E9%9D%99%E6%80%81%E7%BD%91%E9%A1%B5%E4%B8%8E%E5%8A%A8%E6%80%81%E7%BD%91%E9%A1%B5/</url>
+    <url>/2024/04/22/%E9%9D%99%E6%80%81%E7%BD%91%E9%A1%B5%E4%B8%8E%E5%8A%A8%E6%80%81%E7%BD%91%E9%A1%B5/</url>
     <content><![CDATA[<h1 id="静态网页与动态网页"><a href="#静态网页与动态网页" class="headerlink" title="静态网页与动态网页"></a>静态网页与动态网页</h1><p>在互联网世界中，我们每天都会接触到各式各样的网页。它们有的内容千变万化，有的却始终不变。<br>这背后的原因，就在于网页的类型——静态网页和动态网页。</p>
 <span id="more"></span>
 
